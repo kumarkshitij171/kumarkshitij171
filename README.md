@@ -9,8 +9,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.msit@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/i-kshitij-kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarkshitij171)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kshitij171/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kshitij.vercel.app/)
 
 <br>
 
@@ -159,11 +159,6 @@ Priority-based task manager built for team workflows.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarkshitij171&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarkshitij171&theme=tokyonight&hide_border=true&layout=compact&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117" width="37%" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarkshitij171&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&background=0D1117&sideLabels=c9d1d9&dates=8b949e" width="68%" />
 
 </div>
@@ -188,12 +183,3 @@ Priority-based task manager built for team workflows.
 <img src="https://raw.githubusercontent.com/kumarkshitij171/kumarkshitij171/output/github-contribution-grid-snake-dark.svg" width="92%" />
 </div>
 
-<br>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=kumarkshitij171&icon=5&color=9&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1e3a8a,70:1a1a4e,100:0d1117&height=130&section=footer" width="100%" />
